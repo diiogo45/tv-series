@@ -76,6 +76,24 @@
 	}
 }
 
+
+@media (max-width:812px){
+
+	.img{
+        
+        
+        height: 250px;
+		
+	}
+
+	h1{
+
+		text-align: center;
+		margin-bottom: 20px;
+	}
+}
+
+
 @media (max-width:667px){
 
 	.container{
@@ -119,8 +137,20 @@
       	gap: 30px;
       	align-items: center;
 
+
+
       }
 
+	}
+
+	@media (max-width:736px) {
+
+		.img{
+        
+        
+        height: 250px;
+		
+	}
 	}
 
 	@media (max-width:800px){
@@ -157,3 +187,4 @@
 	}
 
 */
+
